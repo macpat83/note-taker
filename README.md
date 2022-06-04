@@ -9,8 +9,6 @@ Note Taker is a web application that can be used to write, save, and delete note
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
-- [License](#license)
-- [Contributing](#contributing)
 - [Questions](#questions)
 
 ## Installation
