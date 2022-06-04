@@ -31,3 +31,8 @@ Then you can access the application in your browser at http://localhost:3000
 
 ## Screenshot
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/98047373/171972244-56729a5f-cb78-4012-91d2-3657be2ad5b2.png">
+
+
+## Questions
+
+If you have any questions about the repo, open an issue or contact me directly at macpat@gmail.com
